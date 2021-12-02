@@ -1,7 +1,5 @@
 package math
 
-import "fmt"
-
-func main() {
-	fmt.Println("gogogo")
+func Add(l, r int) int {
+	return l + r
 }
