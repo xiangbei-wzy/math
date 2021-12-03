@@ -1,9 +1,8 @@
 package see 
 
 import "fmt"
-
-x := 5
-Y := 6
+const  x  int  = 5
+const :  int   = 6
 
 func Atest(){
 	fmt.Println("A test")
