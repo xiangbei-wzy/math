@@ -1,14 +1,15 @@
-package see 
+package see
 
 import "fmt"
-const  x  int  = 5
-const :  int   = 6
 
-func Atest(){
+const x int = 5
+const Y int = 6
+
+func Atest() {
 	fmt.Println("A test")
 }
 
-func  btest(){
+func btest() {
 
-fmt.Println("b test")
+	fmt.Println("b test")
 }
