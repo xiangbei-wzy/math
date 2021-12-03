@@ -7,6 +7,5 @@ func Atest() {
 }
 
 func btest() {
-
 	fmt.Println("b test")
 }
