@@ -2,9 +2,6 @@ package see
 
 import "fmt"
 
-const x int = 5
-const Y int = 6
-
 func Atest() {
 	fmt.Println("A test")
 }
